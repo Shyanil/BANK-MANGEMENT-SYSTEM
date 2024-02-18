@@ -58,6 +58,8 @@ Contributions to the Bank Management System project are welcome! To contribute, 
 
 This project is licensed under the MIT License. See the [LICENSE](link_to_license) file for details.
 
-## Contact
+##  Contact
 
-For any inquiries or feedback, please contact us at shyanilmishra94@gmail.com.
+- **Made by Shyanil Mishra**
+- **Email**: shyanilmishra94@gmail.com
+- **LinkedIn**: [Shyanil Mishra](https://www.linkedin.com/in/shyanil-mishra/)
