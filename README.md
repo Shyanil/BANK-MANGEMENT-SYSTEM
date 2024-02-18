@@ -1,4 +1,4 @@
-Certainly! Here's a template for a README for your Bank Management System project:
+
 
 ---
 
@@ -17,8 +17,10 @@ The Bank Management System is a comprehensive application developed using core J
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
+        
+[Download JAR File](https://drive.google.com/drive/folders/1VO0WNiPFu8n5DLnwRi37p9Vi2GyzRfAs) | [Watch Video Demo](https://drive.google.com/drive/folders/1VO0WNiPFu8n5DLnwRi37p9Vi2GyzRfAs)
 
-
+Copy and paste the link in your browser's address bar to download the JAR file. You can use that and 
 ## Features
 
 - Account management (create, update, delete)
